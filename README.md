@@ -5,6 +5,10 @@
 ## 🚀 项目介绍
 
 GreenSense AI 是一个专为遥感影像植被识别与提取研究设计的前端界面，能够通过多种深度学习模型（U-Net、U-Net++、FCN、DeepLab V3+等）分析遥感图像，提取植被信息，并对比不同模型的性能表现。
+![image](https://github.com/user-attachments/assets/3f310e6f-a77e-4695-9da5-0dc47308aee5)
+![image](https://github.com/user-attachments/assets/50226be6-c1be-40de-a393-0122a12497d8)
+
+
 
 ## 🛠️ 技术栈
 
